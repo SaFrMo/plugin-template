@@ -1,0 +1,14 @@
+{
+    "name": "plugin-template",
+    "version": "1.0.0",
+    "description": "CLI for JS plugin boilerplate",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "plugin-template": "./dist/index.js"
+    },
+    "author": "Sander Moolin",
+    "license": "ISC"
+}
